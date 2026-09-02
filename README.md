@@ -1,2 +1,2 @@
 # rocktheparty
-for github checkss
+for github checkss print("helloo world")
