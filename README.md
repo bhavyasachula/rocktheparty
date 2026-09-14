@@ -1,3 +1,3 @@
 # rocktheparty
 
-teri toh oo 
+teri toh 
