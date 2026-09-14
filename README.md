@@ -1,3 +1,3 @@
 # rocktheparty
-editing bhavyadev-one
+editing bhavyadev-
 teri toh 
