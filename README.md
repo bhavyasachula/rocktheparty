@@ -1,3 +1,2 @@
 # rocktheparty
-editing bhavyadev-
-teri  
+editing bhavyadev
