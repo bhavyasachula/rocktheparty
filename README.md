@@ -1,3 +1,2 @@
 # rocktheparty
-turu tu
-r
+turu 
