@@ -1,2 +1,2 @@
 # rocktheparty
-jev
+jev- is something new ai model which
